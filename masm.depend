@@ -1,0 +1,18 @@
+# depslib dependency file v1.0
+1548351067 source:f:\cpp\masm\main.cpp
+	<iostream>
+	<string>
+	<fstream>
+	<cstdint>
+	<map>
+	<algorithm>
+	<iomanip>
+
+1548251507 source:c:\users\tomasz\desktop\masm\main.cpp
+	<iostream>
+	<string>
+	<fstream>
+	<cstdint>
+	<map>
+	<algorithm>
+
